@@ -1,0 +1,151 @@
+job_id,job_title,company,location,remote,experience_level,employment_type,salary_min,salary_max,skills,date_posted
+JP-1025,Data Engineer,Redwood Group,"Austin, TX",No,Mid Level,Contract,76500,111500,"Spark, AWS, Hadoop, Snowflake, Airflow, Docker",2026-08-19
+JP-1035,Machine Learning Engineer,Riverbend Digital,"Seattle, WA",No,Senior,Contract,123000,164500,"SQL, Kubernetes, TensorFlow, Machine Learning, Statistics, AWS",2026-08-16
+JP-1085,Product Manager,Cascade Labs,"Chicago, IL",No,Senior,Internship,106500,140000,"SQL, Project Management, Communication, Leadership, Data Analysis, Agile",2026-08-16
+JP-1144,Backend Developer,Meridian Consulting,"Dallas, TX",No,Mid Level,Full-time,68500,103500,"AWS, SQL, REST APIs, Docker",2026-08-15
+JP-1033,Machine Learning Engineer,Cascade Group,"Raleigh, NC",No,Mid Level,Full-time,65000,103500,"Statistics, AWS, TensorFlow, Kubernetes",2026-08-11
+JP-1046,Data Engineer,BlueOrbit Labs,"Atlanta, GA",No,Entry Level,Full-time,50000,70500,"AWS, Snowflake, Python, Hadoop, SQL",2026-08-09
+JP-1047,BI Developer,Silverline Analytics,"Atlanta, GA",No,Mid Level,Full-time,70000,100000,"Data Analysis, Snowflake, Excel, ETL, SQL",2026-08-08
+JP-1060,Software Engineer,Northwind Consulting,"Denver, CO",No,Mid Level,Contract,73500,110500,"Python, Git, Docker, JavaScript, REST APIs, React",2026-08-08
+JP-1104,Cloud Engineer,Anchorpoint Analytics,"Chicago, IL",No,Mid Level,Full-time,69500,102000,"Linux, AWS, Azure, CI/CD",2026-08-08
+JP-1003,Business Analyst,Fieldstone Consulting,"Denver, CO",No,Entry Level,Part-time,48500,77000,"Excel, Communication, Data Analysis, Agile, SQL",2026-08-07
+JP-1041,Data Analyst,BlueOrbit Software,"Raleigh, NC",No,Mid Level,Internship,66500,93000,"Data Analysis, Statistics, Excel, SQL, Communication",2026-08-06
+JP-1066,Backend Developer,Nova Software,"Los Angeles, CA",No,Senior,Internship,113500,165000,"Python, Docker, REST APIs, .NET, Java",2026-08-05
+JP-1086,DevOps Engineer,Fieldstone Analytics,"Chicago, IL",No,Lead/Principal,Full-time,141500,196000,"Linux, CI/CD, Kubernetes, Azure",2026-08-05
+JP-1110,Data Analyst,Anchorpoint Analytics,"Boston, MA",No,Entry Level,Full-time,58000,83000,"Data Analysis, Tableau, Power BI, Statistics, Python",2026-08-05
+JP-1132,Data Engineer,Brightline Software,"Denver, CO",No,Lead/Principal,Part-time,142500,205500,"SQL, Hadoop, Spark, Snowflake, Docker",2026-08-04
+JP-1139,Database Administrator,Granite Digital,"Denver, CO",Yes,Mid Level,Full-time,72500,109000,"SQL Server, Azure, Python, SQL, Linux, Database Design",2026-08-04
+JP-1082,Data Analyst,Northwind Consulting,"Los Angeles, CA",Yes,Mid Level,Full-time,79000,126500,"Statistics, Communication, Power BI, Excel, Tableau",2026-08-03
+JP-1096,BI Developer,BlueOrbit Software,"Jacksonville, FL",No,Entry Level,Internship,47500,67000,"SQL, Snowflake, Tableau, Power BI, Data Analysis",2026-08-03
+JP-1121,Frontend Developer,Clearwater Data Co.,"Jacksonville, FL",No,Mid Level,Part-time,67000,92500,"CSS, Git, HTML, TypeScript",2026-08-03
+JP-1130,BI Developer,Riverbend Technologies,"New York, NY",No,Mid Level,Full-time,88500,137000,"Snowflake, Data Analysis, Tableau, Power BI",2026-08-02
+JP-1076,Backend Developer,Northwind Consulting,"Dallas, TX",No,Entry Level,Full-time,48000,71500,"C#, Docker, AWS, Java, REST APIs, SQL",2026-08-01
+JP-1092,Business Analyst,Meridian Digital,"Charlotte, NC",Yes,Senior,Full-time,92500,139500,"Agile, Project Management, SQL, Power BI",2026-08-01
+JP-1039,Machine Learning Engineer,Lumen Consulting,"Austin, TX",No,Senior,Internship,103500,142000,"SQL, TensorFlow, Python, Docker",2026-07-31
+JP-1072,Machine Learning Engineer,BlueOrbit Digital,"Charlotte, NC",No,Entry Level,Contract,46000,63500,"Kubernetes, Python, AWS, TensorFlow, SQL, Machine Learning",2026-07-31
+JP-1101,Backend Developer,Vertex Digital,"Dallas, TX",No,Mid Level,Internship,67500,108000,"Docker, SQL, Python, .NET, Java",2026-07-31
+JP-1105,Business Analyst,Nova Software,"Boston, MA",No,Mid Level,Full-time,80500,121000,"Power BI, Data Analysis, Agile, SQL, Communication",2026-07-31
+JP-1015,Cloud Engineer,Meridian Analytics,"Charlotte, NC",No,Entry Level,Internship,48000,64500,"AWS, CI/CD, Docker, Azure, Python",2026-07-30
+JP-1006,Database Administrator,Nova Software,Remote,Yes,Lead/Principal,Full-time,139000,186500,"Database Design, Linux, SQL Server, Python, SQL",2026-07-29
+JP-1021,Database Administrator,Cascade Data Co.,"New York, NY",No,Lead/Principal,Full-time,160500,258000,"Python, Database Design, Azure, SQL, Linux, SQL Server",2026-07-28
+JP-1043,Data Analyst,BlueOrbit Digital,"Charlotte, NC",No,Mid Level,Contract,68000,99000,"Statistics, Communication, Power BI, Excel, Data Analysis",2026-07-28
+JP-1113,DevOps Engineer,Cascade Data Co.,"Denver, CO",No,Entry Level,Full-time,53000,72000,"Kubernetes, Docker, AWS, Python, Linux, CI/CD",2026-07-28
+JP-1147,Software Engineer,Northwind Systems,"Miami, FL",Yes,Lead/Principal,Contract,126000,189500,"JavaScript, SQL, Python, Git",2026-07-28
+JP-1122,Database Administrator,Northwind Consulting,"Miami, FL",Yes,Lead/Principal,Part-time,124500,200500,"Linux, Database Design, Azure, SQL, SQL Server, Python",2026-07-27
+JP-1137,Machine Learning Engineer,BlueOrbit Labs,"San Francisco, CA",Yes,Entry Level,Part-time,67500,96500,"Machine Learning, Statistics, AWS, SQL, Docker, Kubernetes",2026-07-27
+JP-1004,Machine Learning Engineer,Vertex Digital,"Boston, MA",No,Mid Level,Internship,81000,121000,"TensorFlow, Python, SQL, Machine Learning, Statistics, AWS",2026-07-26
+JP-1007,BI Developer,Horizon Analytics,Remote,Yes,Lead/Principal,Full-time,130500,185500,"Tableau, Excel, ETL, Data Analysis, SQL",2026-07-26
+JP-1050,Frontend Developer,Brightline Solutions,"San Francisco, CA",No,Entry Level,Internship,64000,98500,"REST APIs, Git, TypeScript, CSS, JavaScript",2026-07-26
+JP-1010,Cloud Engineer,Lumen Consulting,"Los Angeles, CA",No,Entry Level,Part-time,59500,80000,"Azure, Kubernetes, Python, Terraform, Docker, CI/CD",2026-07-24
+JP-1037,Data Analyst,Anchorpoint Analytics,"New York, NY",No,Senior,Full-time,127500,185000,"Python, SQL, Communication, Power BI, Statistics",2026-07-23
+JP-1106,Full Stack Developer,Anchorpoint Labs,Remote,Yes,Senior,Full-time,101500,137500,"Git, SQL, Python, AWS, REST APIs, React",2026-07-23
+JP-1146,Business Analyst,Northwind Data Co.,"New York, NY",Yes,Entry Level,Full-time,64500,87500,"Communication, Project Management, SQL, Power BI, Excel, Agile",2026-07-23
+JP-1001,Product Manager,BlueOrbit Labs,"New York, NY",No,Entry Level,Full-time,63500,90500,"Leadership, Data Analysis, Agile, Project Management",2026-07-22
+JP-1009,Database Administrator,Northwind Consulting,"Denver, CO",No,Entry Level,Part-time,50500,70500,"SQL, Python, Linux, Azure",2026-07-20
+JP-1032,Business Analyst,Northwind Data Co.,"Charlotte, NC",No,Senior,Part-time,92500,137000,"Excel, Power BI, Communication, SQL, Data Analysis, Agile",2026-07-20
+JP-1056,Frontend Developer,Skyline Consulting,"New York, NY",No,Lead/Principal,Full-time,176000,254000,"CSS, REST APIs, JavaScript, React",2026-07-20
+JP-1131,Cloud Engineer,Granite Digital,"Charlotte, NC",No,Mid Level,Full-time,64000,97500,"CI/CD, Kubernetes, Terraform, AWS, Python, Linux",2026-07-18
+JP-1013,Database Administrator,Ironwood Labs,"Denver, CO",No,Senior,Part-time,98500,146500,"Python, SQL, Azure, Database Design, Linux, SQL Server",2026-07-17
+JP-1084,Product Manager,Anchorpoint Analytics,"New York, NY",No,Entry Level,Full-time,59500,90500,"Data Analysis, SQL, Project Management, Communication, Agile, Leadership",2026-07-17
+JP-1058,Product Manager,Lumen Labs,"New York, NY",Yes,Senior,Full-time,128500,171000,"Leadership, Agile, SQL, Communication, Project Management, Data Analysis",2026-07-16
+JP-1002,Frontend Developer,Vertex Data Co.,"Jacksonville, FL",No,Entry Level,Full-time,44000,62500,"TypeScript, CSS, JavaScript, React",2026-07-15
+JP-1012,Data Scientist,Cascade Labs,"New York, NY",No,Mid Level,Part-time,87000,133000,"R, Python, SQL, Machine Learning",2026-07-14
+JP-1057,Data Scientist,Silverline Analytics,"San Francisco, CA",No,Entry Level,Contract,68000,102000,"AWS, Machine Learning, Python, SQL, Data Analysis, Statistics",2026-07-14
+JP-1125,Analytics Manager,Lumen Consulting,"Raleigh, NC",Yes,Entry Level,Contract,47500,68000,"Leadership, Project Management, Power BI, Data Analysis, Python",2026-07-14
+JP-1126,Analytics Manager,Anchorpoint Digital,"Atlanta, GA",Yes,Entry Level,Full-time,50500,68000,"Python, Power BI, Leadership, Data Analysis, Project Management",2026-07-14
+JP-1051,Machine Learning Engineer,Riverbend Digital,"San Francisco, CA",No,Mid Level,Internship,92500,138500,"Docker, Python, Statistics, Kubernetes",2026-07-13
+JP-1108,Business Analyst,Fieldstone Software,"Boston, MA",No,Lead/Principal,Full-time,152500,232000,"Power BI, Excel, Data Analysis, Agile",2026-07-13
+JP-1040,Product Manager,Vertex Group,"Jacksonville, FL",No,Entry Level,Full-time,47500,67000,"Project Management, Data Analysis, Agile, Leadership, Communication, SQL",2026-07-11
+JP-1081,Software Engineer,Redwood Group,"Jacksonville, FL",Yes,Senior,Internship,93000,132500,"Java, Docker, SQL, Python",2026-07-11
+JP-1115,Product Manager,Anchorpoint Digital,"New York, NY",No,Mid Level,Internship,90000,128000,"Leadership, Communication, Project Management, SQL, Data Analysis",2026-07-11
+JP-1120,Backend Developer,Cascade Digital,"Boston, MA",Yes,Mid Level,Internship,84000,125500,"SQL, .NET, Python, Docker, Java, REST APIs",2026-07-11
+JP-1138,Data Scientist,Lumen Consulting,"Miami, FL",No,Senior,Contract,99500,142000,"Statistics, Python, SQL, Data Analysis, Machine Learning",2026-07-11
+JP-1063,Database Administrator,Northwind Data Co.,"San Francisco, CA",No,Mid Level,Internship,97500,145500,"Linux, Database Design, SQL, SQL Server, Python",2026-07-10
+JP-1145,Backend Developer,Anchorpoint Labs,"Atlanta, GA",No,Lead/Principal,Full-time,126000,177500,"SQL, Docker, .NET, REST APIs",2026-07-10
+JP-1044,Backend Developer,Meridian Digital,"Seattle, WA",Yes,Senior,Part-time,124500,171000,".NET, REST APIs, AWS, Docker, SQL",2026-07-09
+JP-1062,Software Engineer,Skyline Consulting,"San Francisco, CA",No,Lead/Principal,Contract,177000,260000,"Java, Git, JavaScript, SQL, Docker",2026-07-09
+JP-1141,Data Scientist,Brightline Data Co.,"Miami, FL",No,Mid Level,Contract,67000,93500,"TensorFlow, Machine Learning, Python, R",2026-07-09
+JP-1069,Data Analyst,Vertex Labs,"Seattle, WA",No,Senior,Part-time,118000,184000,"Communication, Data Analysis, Excel, Power BI, Tableau, Statistics",2026-07-08
+JP-1119,Machine Learning Engineer,Cascade Solutions,"Chicago, IL",No,Lead/Principal,Contract,143500,194500,"Python, Statistics, AWS, Machine Learning, Kubernetes",2026-07-08
+JP-1052,Data Engineer,BlueOrbit Digital,"Jacksonville, FL",No,Senior,Contract,95500,127000,"AWS, Airflow, Hadoop, Docker",2026-07-07
+JP-1083,Cloud Engineer,Redwood Labs,"Chicago, IL",Yes,Mid Level,Full-time,72000,102500,"Terraform, Linux, Kubernetes, Docker",2026-07-07
+JP-1098,Backend Developer,Northwind Labs,"Jacksonville, FL",Yes,Senior,Part-time,94000,139500,"C#, REST APIs, Java, .NET",2026-07-07
+JP-1017,BI Developer,Vertex Data Co.,"San Francisco, CA",Yes,Entry Level,Full-time,70500,101000,"Tableau, Power BI, Data Analysis, SQL",2026-07-05
+JP-1019,Frontend Developer,Ironwood Labs,"Raleigh, NC",Yes,Mid Level,Contract,69000,98500,"TypeScript, REST APIs, React, CSS, JavaScript, HTML",2026-07-02
+JP-1109,Data Analyst,Fieldstone Group,"Atlanta, GA",Yes,Senior,Full-time,99000,147500,"Power BI, Tableau, Data Analysis, Python, SQL",2026-06-30
+JP-1020,Database Administrator,Cascade Data Co.,"Atlanta, GA",No,Entry Level,Contract,47000,70000,"SQL Server, Linux, SQL, Azure, Database Design",2026-06-29
+JP-1059,Data Scientist,Brightline Data Co.,Remote,Yes,Entry Level,Full-time,51500,72000,"TensorFlow, Statistics, Python, Data Analysis, Machine Learning, AWS",2026-06-29
+JP-1018,Cloud Engineer,Lumen Software,"Charlotte, NC",No,Mid Level,Part-time,65000,91500,"Kubernetes, Linux, Azure, Python",2026-06-28
+JP-1070,DevOps Engineer,Anchorpoint Analytics,"Boston, MA",No,Mid Level,Full-time,84000,113500,"Azure, Git, Linux, Docker",2026-06-28
+JP-1100,Database Administrator,Lumen Software,"New York, NY",No,Entry Level,Full-time,63000,84000,"Azure, SQL Server, SQL, Linux, Python, Database Design",2026-06-28
+JP-1102,Business Analyst,Northwind Software,"Charlotte, NC",Yes,Entry Level,Part-time,48000,63000,"Agile, Power BI, Project Management, Excel",2026-06-26
+JP-1142,Software Engineer,Nova Software,"Atlanta, GA",No,Senior,Contract,98500,131000,"React, JavaScript, Git, Python, SQL, Docker",2026-06-25
+JP-1000,Business Analyst,Silverline Analytics,"Raleigh, NC",Yes,Mid Level,Internship,67000,105500,"Data Analysis, Power BI, Communication, Agile",2026-06-24
+JP-1077,Backend Developer,Fieldstone Software,"Seattle, WA",Yes,Mid Level,Internship,88000,118000,"Docker, AWS, .NET, Java, Python",2026-06-24
+JP-1031,Analytics Manager,Vertex Data Co.,"Raleigh, NC",No,Mid Level,Internship,70000,97000,"Data Analysis, Communication, Python, Power BI, Leadership, Project Management",2026-06-23
+JP-1117,DevOps Engineer,Anchorpoint Labs,"Dallas, TX",No,Senior,Full-time,96500,148000,"Azure, Kubernetes, Git, Linux, Docker, AWS",2026-06-23
+JP-1026,Business Analyst,Fieldstone Analytics,"Boston, MA",Yes,Senior,Part-time,120000,174500,"Communication, Agile, Data Analysis, Excel, Power BI",2026-06-20
+JP-1067,Data Scientist,Horizon Analytics,"Jacksonville, FL",No,Senior,Contract,96000,128500,"TensorFlow, AWS, R, Machine Learning, Statistics, SQL",2026-06-20
+JP-1099,BI Developer,Meridian Analytics,"Boston, MA",No,Senior,Full-time,119000,171500,"Data Analysis, Tableau, Snowflake, Power BI, ETL",2026-06-20
+JP-1008,Software Engineer,Lumen Software,"Austin, TX",No,Lead/Principal,Part-time,138500,205000,"Python, Docker, JavaScript, React, REST APIs, SQL",2026-06-19
+JP-1034,Machine Learning Engineer,Granite Software,"Denver, CO",No,Mid Level,Full-time,68000,111500,"Statistics, Kubernetes, Docker, Python, SQL",2026-06-19
+JP-1078,Full Stack Developer,Silverline Analytics,"Seattle, WA",No,Senior,Contract,122000,178500,"AWS, Git, Node.js, React, SQL",2026-06-19
+JP-1095,Product Manager,Lumen Consulting,"Denver, CO",Yes,Entry Level,Part-time,48500,77000,"Data Analysis, Leadership, Project Management, Agile, Communication, SQL",2026-06-19
+JP-1014,Data Scientist,Brightline Analytics,"Miami, FL",No,Mid Level,Full-time,68500,92500,"Statistics, R, Machine Learning, SQL, Data Analysis, AWS",2026-06-18
+JP-1065,Analytics Manager,Granite Software,"Atlanta, GA",No,Senior,Full-time,97000,134500,"Communication, Power BI, Leadership, Data Analysis, Python",2026-06-18
+JP-1045,Database Administrator,Silverline Solutions,"Raleigh, NC",Yes,Entry Level,Contract,46500,71500,"Python, Linux, Database Design, SQL Server, SQL",2026-06-17
+JP-1149,Backend Developer,Riverbend Systems,"San Francisco, CA",No,Senior,Part-time,136500,181500,"REST APIs, C#, Java, AWS",2026-06-17
+JP-1042,Software Engineer,Lumen Labs,"Charlotte, NC",No,Senior,Full-time,93000,132500,"Python, JavaScript, REST APIs, Git, SQL, React",2026-06-16
+JP-1068,DevOps Engineer,BlueOrbit Data Co.,"San Francisco, CA",No,Mid Level,Part-time,94500,142000,"Kubernetes, Python, AWS, Linux, Azure, Docker",2026-06-16
+JP-1071,Frontend Developer,Summit Software,"Atlanta, GA",Yes,Senior,Contract,97500,136500,"TypeScript, REST APIs, React, HTML, JavaScript, CSS",2026-06-16
+JP-1129,BI Developer,Lumen Digital,"New York, NY",No,Lead/Principal,Full-time,169500,229000,"Tableau, SQL, Excel, Data Analysis, Power BI",2026-06-16
+JP-1094,Data Engineer,Cascade Solutions,"Seattle, WA",No,Entry Level,Internship,60000,82500,"SQL, Docker, Python, Airflow, AWS, Snowflake",2026-06-15
+JP-1112,Data Scientist,BlueOrbit Labs,"Boston, MA",No,Senior,Internship,112000,158500,"R, Data Analysis, SQL, Python",2026-06-15
+JP-1128,Machine Learning Engineer,Cascade Digital,"Denver, CO",No,Lead/Principal,Internship,143500,204000,"TensorFlow, Machine Learning, Python, Kubernetes, Statistics, Docker",2026-06-15
+JP-1064,Data Scientist,Lumen Digital,"Dallas, TX",No,Mid Level,Part-time,66500,102500,"AWS, Statistics, Python, SQL",2026-06-14
+JP-1118,Cloud Engineer,Northwind Consulting,"Charlotte, NC",No,Mid Level,Internship,65000,90500,"Docker, AWS, Azure, Kubernetes, Terraform, CI/CD",2026-06-14
+JP-1140,BI Developer,Vertex Data Co.,"Raleigh, NC",No,Mid Level,Contract,70500,97000,"Tableau, Power BI, Excel, ETL, Data Analysis",2026-06-14
+JP-1134,Business Analyst,Fieldstone Software,"Miami, FL",Yes,Entry Level,Contract,47500,67000,"Power BI, Excel, Project Management, Communication, SQL, Agile",2026-06-13
+JP-1049,Frontend Developer,Riverbend Systems,"Atlanta, GA",Yes,Mid Level,Full-time,65000,94500,"REST APIs, React, CSS, JavaScript",2026-06-12
+JP-1038,Machine Learning Engineer,Granite Digital,"Dallas, TX",No,Senior,Full-time,102500,134500,"Docker, Statistics, Python, SQL, AWS",2026-06-11
+JP-1073,Analytics Manager,Silverline Data Co.,"Seattle, WA",No,Mid Level,Internship,84500,123000,"SQL, Leadership, Communication, Data Analysis, Power BI, Project Management",2026-06-11
+JP-1089,Software Engineer,Anchorpoint Labs,Remote,Yes,Senior,Full-time,104000,135500,"Git, SQL, JavaScript, Python, Docker",2026-06-11
+JP-1123,Machine Learning Engineer,Fieldstone Group,"Dallas, TX",Yes,Mid Level,Full-time,69000,109000,"TensorFlow, Machine Learning, Python, Docker",2026-06-11
+JP-1048,BI Developer,Vertex Labs,"Miami, FL",No,Entry Level,Internship,48500,68500,"Excel, ETL, Data Analysis, Tableau, Power BI",2026-06-10
+JP-1091,Backend Developer,Lumen Labs,"Los Angeles, CA",No,Lead/Principal,Full-time,166000,242000,"REST APIs, Java, Docker, C#, Python",2026-06-10
+JP-1075,Data Analyst,Brightline Analytics,Remote,Yes,Mid Level,Full-time,72500,98500,"Statistics, Power BI, Excel, Communication, Data Analysis",2026-06-08
+JP-1079,BI Developer,Silverline Analytics,"Los Angeles, CA",Yes,Mid Level,Full-time,80000,124500,"SQL, Data Analysis, Excel, Tableau, Snowflake",2026-06-08
+JP-1022,Software Engineer,Cascade Data Co.,Remote,Yes,Entry Level,Contract,48500,73000,"Docker, Git, REST APIs, React, Python, Java",2026-06-07
+JP-1028,Analytics Manager,Silverline Solutions,"Austin, TX",No,Entry Level,Full-time,50000,71500,"Communication, SQL, Data Analysis, Python, Leadership",2026-06-07
+JP-1016,DevOps Engineer,Anchorpoint Data Co.,"Miami, FL",No,Mid Level,Full-time,64500,105500,"Kubernetes, Git, AWS, Linux",2026-06-06
+JP-1116,Data Analyst,Meridian Consulting,Remote,Yes,Mid Level,Full-time,70500,102000,"Excel, Tableau, Data Analysis, Statistics, Power BI, Communication",2026-06-06
+JP-1136,Machine Learning Engineer,Lumen Labs,"Seattle, WA",No,Senior,Full-time,124000,182500,"AWS, TensorFlow, Kubernetes, Python",2026-06-06
+JP-1036,Backend Developer,Nova Software,"Jacksonville, FL",No,Senior,Internship,87000,138000,"SQL, Docker, C#, Python, REST APIs",2026-06-05
+JP-1093,DevOps Engineer,BlueOrbit Analytics,"Seattle, WA",No,Senior,Full-time,123500,173500,"Kubernetes, AWS, Linux, Docker",2026-06-05
+JP-1111,Machine Learning Engineer,Vertex Group,"San Francisco, CA",No,Senior,Part-time,129500,189500,"AWS, Python, SQL, Statistics, TensorFlow, Kubernetes",2026-06-05
+JP-1030,Data Analyst,Vertex Group,"Denver, CO",No,Entry Level,Full-time,50000,70500,"Communication, Statistics, Tableau, Data Analysis",2026-06-04
+JP-1054,Data Engineer,Northwind Consulting,"San Francisco, CA",Yes,Senior,Full-time,131000,181500,"SQL, AWS, Airflow, Hadoop",2026-06-04
+JP-1143,Analytics Manager,Silverline Data Co.,Remote,Yes,Entry Level,Internship,49500,72000,"Communication, Project Management, Power BI, SQL, Data Analysis",2026-06-03
+JP-1088,Frontend Developer,Northwind Labs,"Denver, CO",No,Mid Level,Internship,72500,102500,"HTML, REST APIs, JavaScript, TypeScript",2026-06-02
+JP-1011,Machine Learning Engineer,BlueOrbit Analytics,"Austin, TX",Yes,Mid Level,Full-time,71500,105500,"Docker, SQL, Machine Learning, Python, Kubernetes, TensorFlow",2026-06-01
+JP-1055,Business Analyst,BlueOrbit Software,"Dallas, TX",No,Mid Level,Contract,68500,97000,"Power BI, Project Management, Communication, Agile, Data Analysis",2026-06-01
+JP-1053,Data Analyst,Anchorpoint Data Co.,"Seattle, WA",No,Lead/Principal,Contract,160500,242000,"Data Analysis, Power BI, SQL, Tableau",2026-05-31
+JP-1114,Analytics Manager,Meridian Digital,"Dallas, TX",No,Senior,Full-time,103500,146000,"Data Analysis, Python, Communication, Project Management, Leadership, Power BI",2026-05-31
+JP-1133,BI Developer,Meridian Consulting,"Jacksonville, FL",No,Senior,Contract,93500,135500,"Snowflake, Excel, ETL, SQL",2026-05-31
+JP-1080,Analytics Manager,Lumen Software,"Miami, FL",No,Lead/Principal,Part-time,129000,192500,"Python, Leadership, Power BI, Project Management, SQL",2026-05-30
+JP-1135,Data Scientist,Fieldstone Technologies,"Denver, CO",No,Mid Level,Part-time,73500,109000,"Data Analysis, AWS, Statistics, Python",2026-05-30
+JP-1127,DevOps Engineer,Lumen Digital,"Denver, CO",No,Mid Level,Full-time,69000,105000,"Kubernetes, Python, Linux, AWS",2026-05-29
+JP-1005,Product Manager,Vertex Group,"San Francisco, CA",Yes,Mid Level,Full-time,89500,147500,"Communication, SQL, Data Analysis, Leadership",2026-05-28
+JP-1061,Backend Developer,Summit Solutions,"Charlotte, NC",No,Senior,Part-time,93000,128500,"Docker, .NET, Python, Java, REST APIs, SQL",2026-05-28
+JP-1090,Cloud Engineer,Nova Analytics,"Jacksonville, FL",No,Mid Level,Contract,63000,88500,"Azure, Linux, Kubernetes, AWS",2026-05-27
+JP-1023,Business Analyst,Fieldstone Software,"Seattle, WA",Yes,Entry Level,Contract,58500,86000,"Agile, Project Management, Excel, Power BI, Data Analysis, SQL",2026-05-26
+JP-1087,Data Analyst,BlueOrbit Digital,"Seattle, WA",Yes,Lead/Principal,Full-time,164000,222500,"Python, Power BI, Data Analysis, Communication",2026-05-26
+JP-1107,Analytics Manager,Anchorpoint Data Co.,"Denver, CO",No,Entry Level,Contract,52000,70000,"Project Management, Python, Communication, Data Analysis, Leadership",2026-05-26
+JP-1027,Analytics Manager,Brightline Analytics,"Miami, FL",No,Entry Level,Full-time,48500,73500,"Project Management, Python, Communication, Leadership, SQL, Data Analysis",2026-05-25
+JP-1074,Data Scientist,Riverbend Systems,"Austin, TX",No,Senior,Full-time,100000,145500,"SQL, Statistics, Python, R, Data Analysis, TensorFlow",2026-05-23
+JP-1124,Cloud Engineer,Silverline Consulting,"Denver, CO",Yes,Entry Level,Full-time,53000,76500,"Docker, Terraform, Kubernetes, Azure, Linux, AWS",2026-05-23
+JP-1024,Full Stack Developer,Northwind Labs,"Chicago, IL",No,Senior,Full-time,105000,143500,"Python, REST APIs, SQL, Node.js, Git",2026-05-22
+JP-1029,Frontend Developer,Cascade Group,"Boston, MA",No,Mid Level,Full-time,76500,114500,"REST APIs, JavaScript, TypeScript, HTML, Git, CSS",2026-05-22
+JP-1097,Backend Developer,Summit Software,"Los Angeles, CA",No,Mid Level,Full-time,81000,118000,"Docker, REST APIs, .NET, AWS, C#, Python",2026-05-22
+JP-1103,Analytics Manager,Fieldstone Analytics,"Charlotte, NC",Yes,Senior,Internship,91000,139500,"SQL, Communication, Leadership, Python, Data Analysis, Power BI",2026-05-22
+JP-1148,Product Manager,BlueOrbit Analytics,"New York, NY",Yes,Senior,Full-time,128000,171500,"Data Analysis, Communication, Project Management, Agile, Leadership",2026-05-21
